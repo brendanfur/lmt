@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "A simple app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test-device"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanfur/lmt.git"
+  },
+  "keywords": [
+    "Build",
+    "this",
+    "city!"
+  ],
+  "author": "brendanfur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendanfur/lmt/issues"
+  },
+  "homepage": "https://github.com/brendanfur/lmt#readme",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "inert": "^5.1.0"
+  }
+}
